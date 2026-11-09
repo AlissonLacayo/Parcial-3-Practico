@@ -1,1 +1,1 @@
-# Parcial-3-Pr-ctico
+# Parcial-3-Practico
