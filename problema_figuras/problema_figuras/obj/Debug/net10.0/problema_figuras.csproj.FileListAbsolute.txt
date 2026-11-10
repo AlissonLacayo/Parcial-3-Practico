@@ -1,0 +1,15 @@
+C:\Users\aliss\Downloads\problema_figuras\problema_figuras\bin\Debug\net10.0\problema_figuras.exe
+C:\Users\aliss\Downloads\problema_figuras\problema_figuras\bin\Debug\net10.0\problema_figuras.deps.json
+C:\Users\aliss\Downloads\problema_figuras\problema_figuras\bin\Debug\net10.0\problema_figuras.runtimeconfig.json
+C:\Users\aliss\Downloads\problema_figuras\problema_figuras\bin\Debug\net10.0\problema_figuras.dll
+C:\Users\aliss\Downloads\problema_figuras\problema_figuras\bin\Debug\net10.0\problema_figuras.pdb
+C:\Users\aliss\Downloads\problema_figuras\problema_figuras\obj\Debug\net10.0\problema_figuras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aliss\Downloads\problema_figuras\problema_figuras\obj\Debug\net10.0\problema_figuras.AssemblyInfoInputs.cache
+C:\Users\aliss\Downloads\problema_figuras\problema_figuras\obj\Debug\net10.0\problema_figuras.AssemblyInfo.cs
+C:\Users\aliss\Downloads\problema_figuras\problema_figuras\obj\Debug\net10.0\problema_figuras.csproj.CoreCompileInputs.cache
+C:\Users\aliss\Downloads\problema_figuras\problema_figuras\obj\Debug\net10.0\problema_figuras.dll
+C:\Users\aliss\Downloads\problema_figuras\problema_figuras\obj\Debug\net10.0\refint\problema_figuras.dll
+C:\Users\aliss\Downloads\problema_figuras\problema_figuras\obj\Debug\net10.0\problema_figuras.pdb
+C:\Users\aliss\Downloads\problema_figuras\problema_figuras\obj\Debug\net10.0\problema_figuras.genruntimeconfig.cache
+C:\Users\aliss\Downloads\problema_figuras\problema_figuras\obj\Debug\net10.0\ref\problema_figuras.dll
+C:\Users\aliss\Downloads\problema_figuras\problema_figuras\obj\Debug\net10.0\problema.56C6849A.Up2Date
