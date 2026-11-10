@@ -1,0 +1,17 @@
+C:\Users\aliss\Downloads\parcial3_json\parcial3_json\bin\Debug\net10.0\parcial3_json.exe
+C:\Users\aliss\Downloads\parcial3_json\parcial3_json\bin\Debug\net10.0\parcial3_json.deps.json
+C:\Users\aliss\Downloads\parcial3_json\parcial3_json\bin\Debug\net10.0\parcial3_json.runtimeconfig.json
+C:\Users\aliss\Downloads\parcial3_json\parcial3_json\bin\Debug\net10.0\parcial3_json.dll
+C:\Users\aliss\Downloads\parcial3_json\parcial3_json\bin\Debug\net10.0\parcial3_json.pdb
+C:\Users\aliss\Downloads\parcial3_json\parcial3_json\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\aliss\Downloads\parcial3_json\parcial3_json\obj\Debug\net10.0\parcial3_json.csproj.AssemblyReference.cache
+C:\Users\aliss\Downloads\parcial3_json\parcial3_json\obj\Debug\net10.0\parcial3_json.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aliss\Downloads\parcial3_json\parcial3_json\obj\Debug\net10.0\parcial3_json.AssemblyInfoInputs.cache
+C:\Users\aliss\Downloads\parcial3_json\parcial3_json\obj\Debug\net10.0\parcial3_json.AssemblyInfo.cs
+C:\Users\aliss\Downloads\parcial3_json\parcial3_json\obj\Debug\net10.0\parcial3_json.csproj.CoreCompileInputs.cache
+C:\Users\aliss\Downloads\parcial3_json\parcial3_json\obj\Debug\net10.0\parcial3.3C1BA259.Up2Date
+C:\Users\aliss\Downloads\parcial3_json\parcial3_json\obj\Debug\net10.0\parcial3_json.dll
+C:\Users\aliss\Downloads\parcial3_json\parcial3_json\obj\Debug\net10.0\refint\parcial3_json.dll
+C:\Users\aliss\Downloads\parcial3_json\parcial3_json\obj\Debug\net10.0\parcial3_json.pdb
+C:\Users\aliss\Downloads\parcial3_json\parcial3_json\obj\Debug\net10.0\parcial3_json.genruntimeconfig.cache
+C:\Users\aliss\Downloads\parcial3_json\parcial3_json\obj\Debug\net10.0\ref\parcial3_json.dll
