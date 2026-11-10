@@ -123,7 +123,7 @@ git clone https://github.com/tu-usuario/parcial-3-csharp.git
 En `LoginBCrypt/Form1.cs`, modificar la cadena de conexión con las credenciales de MySQL de su equipo:
 
 ```csharp
-private const string cs = "Server=localhost;Port=3306;Database=LoginDB;Uid=root;Pwd=TU_CLAVE;";
+private const string cs = "Server=localhost;Port=3306;Database=LoginDB;Uid=root;Pwd=alizn03;";
 ```
 
 **4. Ejecutar el código:**
